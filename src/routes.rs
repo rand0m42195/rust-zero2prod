@@ -1,5 +1,5 @@
 mod health_check;
-mod subscribe;
+mod subscriptions;
 
 pub use health_check::*;
-pub use subscribe::*;
+pub use subscriptions::*;
